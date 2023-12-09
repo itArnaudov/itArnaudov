@@ -1,16 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is itArnaudov ✈🌞
 ==================================================================================================================================
 
-☁ MS Azure Cloud, 💻 M365 expert 🤵 professional 💼 DevOps Engineer 🛠
+☁ <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="20" height="20" alt="Icon"> MS Azure Cloud, 💻 M365 expert 🤵 professional 💼 DevOps Engineer 🛠
 --------------------------------------------------------
 
 Learning to code is a lifetime experience. I've done on and off personal projects as well as few work-related and growing as we speak. Really keen on getting on learning more while I'm building better DevOps experience knowledge, primarily focussed on HCL Terraform and IaC right now.
 
 *   🌍  I'm based in Great Britain 💂‍♂️🇬🇧<img src="https://em-content.zobj.net/source/telegram/386/flag-united-kingdom_1f1ec-1f1e7.webp" width="30" height="30" alt="Icon">
-*   🚀  I'm currently working on [my DevOps skills set](http://github.com/itarnaudov/public.git)
+*   🖥️  See my portfolio at [itArnaudov.com](https://itArnaudov.com)
+*   🚀  I'm currently working on [my DevOps skills set](https://github.com/itarnaudov/public.git)
 *   🧠  I'm learning [HCL Terraform](https://www.terraform.io/use-cases/infrastructure-as-code)
-*   🤝  I'm open to collaborating on MS Azure IaC with HCL Terraform Cloud DevOps projects ✔
-*   ⚡  feel free to invite me to collaborate on cloud projects 👁‍🗨
+*   🤝  I'm open to collaborating on MS Azure <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="20" height="20" alt="Icon"> IaC with HCL Terraform <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="20" height="20" alt="Icon"> Cloud DevOps projects ✔
+*   ⚡  Feel free to invite me to 👯 collaborate on cloud projects 👁‍🗨
+*   💬  Ask me about anything, I'm always happy to help 😄
 
 [![GitHub followers](https://img.shields.io/github/followers/itArnaudov?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917)](https://www.github.com/itArnaudov)
 <!--
