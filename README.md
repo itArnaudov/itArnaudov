@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Learning to code is a lifetime experience. I've done on and off personal projects as well as few work-related and growing as we speak. Really keen on getting on learning more while I'm building better DevOps experience knowledge, primarily focussed on HCL Terraform and IaC right now.
 
-*   🌍  I'm based in Great Britain 💂‍♂️
+*   🌍  I'm based in Great Britain 💂‍♂️🇬🇧<img src="https://em-content.zobj.net/source/telegram/386/flag-united-kingdom_1f1ec-1f1e7.webp" width="30" height="30" alt="Icon">
 *   🚀  I'm currently working on [my DevOps skills set](http://github.com/itarnaudov/public.git)
 *   🧠  I'm learning [HCL Terraform](https://www.terraform.io/use-cases/infrastructure-as-code)
 *   🤝  I'm open to collaborating on MS Azure IaC with HCL Terraform Cloud DevOps projects ✔
@@ -27,7 +27,7 @@ Learning to code is a lifetime experience. I've done on and off personal project
 
 ### Badgges
 <!-- ![Icon](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png?s=10) -->
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50" alt="Icon"> <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="50" height="50" alt="Icon"> <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="50" height="50" alt="Icon"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50" height="50" alt="Icon"> 
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="65" height="65" alt="Icon"> <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="65" height="65" alt="Icon"> <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="65" height="65" alt="Icon"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="65" height="65" alt="Icon"> 
 
 <b>My GitHub Stats</b>
 
@@ -46,7 +46,7 @@ Learning to code is a lifetime experience. I've done on and off personal project
 <div width="100%" align="center"><a href="https://github.com/itArnaudov/public" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itArnaudov&repo=public&title_color=0891b2&text_color=22c55e&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+<img src="https://em-content.zobj.net/source/twitter/376/flag-european-union_1f1ea-1f1fa.png" width="50" height="50" alt="Icon"> ProfileMe.dev | Create an amazing GitHub profile in minutes
 <!--
 ProfileMe.dev
 
