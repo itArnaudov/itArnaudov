@@ -51,7 +51,7 @@ Learning to code is a lifetime experience. I've done on and off personal project
 <div width="100%" align="center"><a href="https://github.com/itArnaudov/public" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itArnaudov&repo=public&title_color=0891b2&text_color=22c55e&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-<img src="https://em-content.zobj.net/source/twitter/376/flag-european-union_1f1ea-1f1fa.png" width="50" height="50" alt="Icon"> ProfileMe.dev | Create an amazing GitHub profile in minutes
+<a href="https://european-union.europa.eu/index_en" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/source/twitter/376/flag-european-union_1f1ea-1f1fa.png" width="50" height="50" alt="Icon"/></a> ProfileMe.dev | Create an amazing GitHub profile in minutes
 <!--
 ProfileMe.dev
 
