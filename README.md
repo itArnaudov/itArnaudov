@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 #### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Learning to code is a lifelong journey. I've done on and off personal jobs as well as several work-related projects and growing by number as we speak. Really keen on getting on learning more while I'm building better DevOps experience knowledge, primarily focussed on `HCL` Terraform and IaC right now.
+Learning to code is a lifelong journey. I've done on and off personal jobs as well as several work-related projects and growing by number as we speak. Really keen on getting on learning more while I'm passionately building better DevOps experience knowledge, primarily focussed on `HCL` `Terraform` and `IaC` right now.
 
 *   🌍  I'm based in Great Britain 💂‍♂️🇬🇧<img src="https://em-content.zobj.net/source/telegram/386/flag-united-kingdom_1f1ec-1f1e7.webp" width="30" height="30" alt="Icon">
 *   🖥️  See my portfolio at [itArnaudov.com](https://itArnaudov.com)
