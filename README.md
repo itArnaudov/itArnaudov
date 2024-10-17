@@ -17,7 +17,7 @@ Learning to code is a lifelong journey. I've done on and off personal jobs as we
 *   ⚡  Feel free to invite me to 👯 collaborate on cloud projects 👁‍🗨
 *   💬  Ask me about anything, I'm always happy to help 😄
 
-[![GitHub followers](https://img.shields.io/github/followers/itArnaudov?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917)](https://www.github.com/itArnaudov) [![](https://visitcount.itsvg.in/api?id=itarnaudov&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/itArnaudov?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917)](https://www.github.com/itArnaudov) [![](https://visitcount.itsvg.in/api?id=itarnaudov&icon=0&color=0)](https://visitcount.itsvg.in) ![Commits](https://img.shields.io/github/commit-activity/y/itArnaudov/public?style=plastic&label=PRactivity)
 
 <!--
 <a href="https://www.github.com/itArnaudov" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itArnaudov?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917"/></a>
@@ -79,7 +79,7 @@ OLD END
 
 <div width="100%" align="center"><a href="https://github.com/itArnaudov/public" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itArnaudov&repo=public&title_color=0891b2&text_color=22c55e&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<a href="https://european-union.europa.eu/index_en" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/source/twitter/376/flag-european-union_1f1ea-1f1fa.png" width="60" height="60" alt="Icon"/></a> ProfileMe.dev | Create an amazing GitHub profile in minutes
+<a href="https://european-union.europa.eu/index_en" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/source/twitter/376/flag-european-union_1f1ea-1f1fa.png" width="80" height="80" alt="Icon"/></a> ProfileMe.dev | Create an amazing GitHub profile in minutes
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=itarnaudov&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
