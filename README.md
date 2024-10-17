@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ☁ <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="20" height="20" alt="Icon"> MS Azure Cloud, 💻 M365 expert 🤵 professional 💼 DevOps Engineer 🛠
 --------------------------------------------------------
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 Learning to code is a lifetime experience. I've done on and off personal projects as well as few work-related and growing as we speak. Really keen on getting on learning more while I'm building better DevOps experience knowledge, primarily focussed on HCL Terraform and IaC right now.
 
 *   🌍  I'm based in Great Britain 💂‍♂️🇬🇧<img src="https://em-content.zobj.net/source/telegram/386/flag-united-kingdom_1f1ec-1f1e7.webp" width="30" height="30" alt="Icon">
